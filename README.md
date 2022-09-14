@@ -14,3 +14,5 @@ To create a **Spring Boot API**, with utilization of supporting tools, methodolo
 -   An  **application back-end developed**  using the language from Programming Fundamentals module (e.g. Java)
 -   A  **managed database**  hosted locally or within the Cloud Provider examined during your Cloud Fundamentals module (e.g. H2 or MySQL (local / GCP)
 -   **a means of making API calls**  (Postman) and a  **means of checking persistence**  (Workbench/H2 console)
+
+![image](https://user-images.githubusercontent.com/109301588/190151879-bb73eb38-0f98-4666-b161-a3939fee290a.png)
