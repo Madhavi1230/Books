@@ -1,3 +1,6 @@
+# Jira link
+https://javachm.atlassian.net/jira/software/projects/FIN/boards/1
+
 # Why are we doing this?
 
 This project serves as the culmination of all of the topics I learned. It involve the following concepts/technologies:
