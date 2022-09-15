@@ -7,5 +7,5 @@ import com.qa.demo.persistence.domain.Books;
 
 @Repository
 public interface BooksRepo extends JpaRepository<Books, Long>  {
-
+    public Books findByName(String name);
 }
