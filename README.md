@@ -820,3 +820,12 @@ Illness | Developer is   ill and may not submit the project as per SLA | Medium 
 # JUnit
 #Test for Create
 ![image](https://user-images.githubusercontent.com/109301588/190399593-ba0573e9-4eeb-4d06-b6ea-6948ec3b1e5f.png)
+
+# Find By Name
+![image](https://user-images.githubusercontent.com/109301588/190400102-db3e0a7c-d9ab-4fce-a5f7-b6bc6c557241.png)
+
+# Update
+![image](https://user-images.githubusercontent.com/109301588/190400157-c4abd350-4c75-44b9-a947-60e786dc83db.png)
+
+# Delete
+![image](https://user-images.githubusercontent.com/109301588/190400264-e2f1b237-b74c-4a08-b851-6d59ae76465a.png)
