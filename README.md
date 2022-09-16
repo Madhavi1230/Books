@@ -830,9 +830,18 @@ Illness | Developer is   ill and may not submit the project as per SLA | Medium 
 # Delete
 ![image](https://user-images.githubusercontent.com/109301588/190400264-e2f1b237-b74c-4a08-b851-6d59ae76465a.png)
 
+
 # Code to map Books table to Authors table creating a foreign key and keeping the primary key "id"
 ![image](https://user-images.githubusercontent.com/109301588/190614426-2e827376-860e-4ded-8171-c4376caf74ee.png)
+
+![image](https://user-images.githubusercontent.com/109301588/190615038-bf857778-2190-4976-b0ca-a5842695b402.png)
 
 
 # What went well?
 Developed a spring boot API using an application back-end from progamming fundamentals, managed mySQL workbench hosted locally and used Postman, a means of making API calls andmeans of checkingpersistence. Project is tested rigorously in key areas using the technologies covered during all fundamental and practical modules (e.g. JUnit, Mockito).
+
+
+# What did not went well
+Tried to run integration tests but could not get the resuts as expected.
+Result:  BooksControllerIntegrationTest.testCreate » CannotReadScript Cannot read SQL s...
+Reason: Was not able to connect my SQL workbench properly to my project(incorrect specification of parameters)
