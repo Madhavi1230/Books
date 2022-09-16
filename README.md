@@ -843,5 +843,5 @@ Developed a spring boot API using an application back-end from progamming fundam
 
 # What did not went well
 Tried to run integration tests but could not get the resuts as expected.
-Result:  BooksControllerIntegrationTest.testCreate » CannotReadScript Cannot read SQL s...
-Reason: Was not able to connect my SQL workbench properly to my project(incorrect specification of parameters)
+ - Result:  BooksControllerIntegrationTest.testCreate » CannotReadScript Cannot read SQL s...
+ - Reason: Was not able to connect my SQL workbench properly to my project(incorrect specification of parameters)
